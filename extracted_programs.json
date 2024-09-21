@@ -1,0 +1,790 @@
+[
+    {
+        "name": "Practical Nurse",
+        "course_prerequisites": [
+            "ENGL& 101 (English Composition I)",
+            "PSYCH& 100 (General Psychology)",
+            "PSYCH& 200 (Lifespan Psychology)",
+            "BIO& 160 (General Biology with Lab)",
+            "BIO& 241 (Human Anatomy and Physiology I with lab)",
+            "BIO& 242 (Human Anatomy and Physiology II with lab)",
+            "MATH& 146 (Statistics)"
+        ],
+        "institution": "Bates Technical College"
+    },
+    {
+        "name": "Practical Nursing Certificate",
+        "course_prerequisites": [
+            "Intro to Statistics (MATH& 146)",
+            "Human A & P 1 (BIOL& 241)",
+            "Human A & P 2 (BIOL& 242)",
+            "Introduction to Chemistry (CHEM& 121 or CHEM& 161)",
+            "English Composition I (ENGL& 101)",
+            "General Psychology (PSYC& 100)",
+            "General Biology with lab (BIOL& 160)"
+        ],
+        "institution": "Bellingham Technical College"
+    },
+    {
+        "name": "Practical Nursing Certificate",
+        "course_prerequisites": [
+            "Anatomy & Physiology I & II",
+            "English Composition",
+            "General Psychology",
+            "Introduction to Chemistry",
+            "Nutrition",
+            "Medical Terminology"
+        ],
+        "institution": "Clover Park Technical College"
+    },
+    {
+        "name": "Practical Nursing Certificate",
+        "course_prerequisites": [
+            "ENGL& 101 -- English Composition 1",
+            "MATH 146 -- Statistics",
+            "CHEM& 121 -- Introduction to Chemistry I",
+            "BIOL& 211 -- Majors Cellular Biology",
+            "BIOL& 241 -- Human Anatomy & Physiology I",
+            "BIOL& 242 -- Human Anatomy & Physiology II",
+            "PSYCH& 100 -- General Psychology"
+        ],
+        "institution": "Edmonds College"
+    },
+    {
+        "name": "Practical Nursing Certificate",
+        "course_prerequisites": [
+            "ENGL& 101 - English Composition I",
+            "PSYC& 200 - Lifespan Psychology",
+            "MATH& 146 - Introduction to Statistics",
+            "BIOL& 160 - General Biology w/Lab",
+            "BIOL& 241 - Human Anatomy & Physiology I",
+            "BIOL& 242 - Human Anatomy & Physiology II",
+            "CMST& 210 - Interpersonal Communication"
+        ],
+        "institution": "Green River College"
+    },
+    {
+        "name": "Practical Nursing Certificate",
+        "course_prerequisites": [
+            "ENGL& 101 - English Composition I",
+            "PSYC& 200 - Lifespan Psychology",
+            "MATH& 146 - Introduction to Statistics",
+            "BIOL& 160 - General Biology w/Lab",
+            "BIOL& 241 - Human Anatomy & Physiology I",
+            "BIOL& 242 - Human Anatomy & Physiology II",
+            "NUTR& 101 - Human Nutrition"
+        ],
+        "institution": "Olympic College"
+    },
+    {
+        "name": "Practical Nursing Certificate",
+        "course_prerequisites": [
+            "BIOL& 160 - General Biology",
+            "BIOL& 241 - Human Anatomy and Physiology I",
+            "BIOL& 242 - Human Anatomy and Physiology II",
+            "ENGL& 101 - English Composition I",
+            "MATH 93 or higher",
+            "PSYC& 100 - General Psychology"
+        ],
+        "institution": "Yakima Valley College"
+    },
+    {
+        "name": "Practical Nursing Certificate",
+        "course_prerequisites": [
+            "BIOL& 160 - General Biology",
+            "BIOL& 241 - Human Anatomy & Physiology I",
+            "BIOL& 242 - Human Anatomy & Physiology II",
+            "ENGL& 101 - English Composition I",
+            "MATH 093 - Intermediate Algebra",
+            "PSYC& 100 - General Psychology"
+        ],
+        "institution": "Lower Columbia College"
+    },
+    {
+        "name": "LPN to RN ATA Program",
+        "course_prerequisites": [
+            "NURSE 151 - Dosage Calculations",
+            "NURSE 152 - Intro to Pharmacology",
+            "BIOL& 241 - Human Anatomy & Physiology I",
+            "BIOL& 242 - Human Anatomy & Physiology II",
+            "ENGL& 101 - English Composition I",
+            "PSYC& 100 - General Psychology"
+        ],
+        "institution": "Olympic College"
+    },
+    {
+        "name": "Practical Nursing Certificate",
+        "course_prerequisites": [
+            "BIOL& 241 - Human Anatomy & Physiology I",
+            "BIOL& 242 - Human Anatomy & Physiology II",
+            "ENGL& 101 - English Composition I",
+            "PSYC& 200 - Lifespan Psychology",
+            "MATH& 146 - Introduction to Statistics"
+        ],
+        "institution": "Pierce College"
+    },
+    {
+        "name": "LPN to RN Advanced Placement Option AAS-T",
+        "course_prerequisites": [
+            "NURSE 151 - Dosage Calculations",
+            "NURSE 152 - Intro to Pharmacology",
+            "BIOL& 241 - Human Anatomy & Physiology I",
+            "BIOL& 242 - Human Anatomy & Physiology II",
+            "ENGL& 101 - English Composition I",
+            "PSYC& 100 - General Psychology"
+        ],
+        "institution": "Shoreline Community College"
+    },
+    {
+        "name": "LPN to RN AAS Degree",
+        "course_prerequisites": [
+            "NURSE 151 - Dosage Calculations",
+            "NURSE 152 - Intro to Pharmacology",
+            "BIOL& 241 - Human Anatomy & Physiology I",
+            "BIOL& 242 - Human Anatomy & Physiology II",
+            "ENGL& 101 - English Composition I",
+            "PSYC& 100 - General Psychology"
+        ],
+        "institution": "Skagit Valley College"
+    },
+    {
+        "name": "Associate Degree in Nursing (DTA/MRP)",
+        "course_prerequisites": [
+            "BIOL& 241 - Human Anatomy & Physiology I",
+            "BIOL& 242 - Human Anatomy & Physiology II",
+            "ENGL& 101 - English Composition I",
+            "PSYC& 200 - Lifespan Psychology",
+            "MATH& 146 - Introduction to Statistics",
+            "CHEM& 121 - General Chemistry"
+        ],
+        "institution": "Tacoma Community College"
+    },
+    {
+        "name": "Associate Degree in Nursing (DTA/MRP)",
+        "course_prerequisites": [
+            "BIOL& 241 - Human Anatomy & Physiology I",
+            "BIOL& 242 - Human Anatomy & Physiology II",
+            "ENGL& 101 - English Composition I",
+            "PSYC& 200 - Lifespan Psychology",
+            "MATH& 146 - Introduction to Statistics",
+            "CHEM& 121 - General Chemistry"
+        ],
+        "institution": "Walla Walla Community College"
+    },
+    {
+        "name": "LPN to BSN",
+        "course_prerequisites": [
+            "BIOL& 160 - General Biology with Lab",
+            "BIOL& 241 - Human Anatomy and Physiology I",
+            "BIOL& 242 - Human Anatomy and Physiology II",
+            "BIOL& 260 - Microbiology",
+            "CHEM& 121 - Intro to Chemistry with Lab",
+            "CMST& 101, 210, 220, or CMST 260 - Communication Studies",
+            "ENGL& 101 - English Composition",
+            "MATH& 146 - Intro to Statistics",
+            "PSYC& 100 - Introduction to Psychology",
+            "PSYC& 200 - Lifespan Psychology",
+            "NUTR& 101 - Nutrition"
+        ],
+        "institution": "Columbia Basin College"
+    },
+    {
+        "name": "Bachelor of Science in Nursing (BSN)",
+        "course_prerequisites": [
+            "BIOL& 241 - Human Anatomy & Physiology I",
+            "BIOL& 242 - Human Anatomy & Physiology II",
+            "BIOL& 260 - Microbiology",
+            "ENGL& 101 - English Composition I",
+            "PSYC& 200 - Lifespan Psychology",
+            "MATH& 146 - Introduction to Statistics",
+            "NUTR& 101 - Nutrition"
+        ],
+        "institution": "Green River College"
+    },
+    {
+        "name": "Veteran/LPN to BSN",
+        "course_prerequisites": [
+            "ENGL& 101 - English Composition I",
+            "PSYC& 100 - General Psychology",
+            "CHEM& 121 - General Chemistry",
+            "BIOL& 241 - Human Anatomy & Physiology I",
+            "BIOL& 242 - Human Anatomy & Physiology II",
+            "BIOL& 260 - Microbiology"
+        ],
+        "institution": "Olympic College"
+    },
+    {
+        "name": "LPN to BSN",
+        "course_prerequisites": [
+            "BIO 121: Human Biology",
+            "BIO 228/328: Human Anatomy & Physiology I",
+            "BIO 229/329: Human Anatomy & Physiology II",
+            "BIO 251: Microbiology for Applied Health",
+            "CHM 121: Introduction to Chemistry",
+            "MTH 101: Intermediate Algebra",
+            "MTH 201: Introduction to Statistics",
+            "NUR 203: Human Nutrition",
+            "PSY 101: Introduction to Psychology",
+            "PSY 215: Lifespan Development"
+        ],
+        "institution": "Saint Martin's University"
+    },
+    {
+        "name": "LPN to BSN",
+        "course_prerequisites": [
+            "BIOL& 241 - Human Anatomy & Physiology I",
+            "BIOL& 242 - Human Anatomy & Physiology II",
+            "BIOL& 260 - Microbiology",
+            "ENGL& 101 - English Composition I",
+            "PSYC& 200 - Lifespan Psychology",
+            "MATH& 146 - Introduction to Statistics",
+            "NUTR& 101 - Nutrition"
+        ],
+        "institution": "Wenatchee Valley College"
+    },
+    {
+        "name": "Associate Degree in Nursing (ADN)",
+        "course_prerequisites": [
+            "BIOL& 241 - Human Anatomy & Physiology I",
+            "BIOL& 242 - Human Anatomy & Physiology II",
+            "ENGL& 101 - English Composition I",
+            "PSYC& 200 - Lifespan Psychology",
+            "MATH& 146 - Introduction to Statistics",
+            "CHEM& 121 - General Chemistry"
+        ],
+        "institution": "Bellevue College"
+    },
+    {
+        "name": "Associate Degree in Nursing (DTA/MRP)",
+        "course_prerequisites": [
+            "BIOL& 241 - Human Anatomy & Physiology I",
+            "BIOL& 242 - Human Anatomy & Physiology II",
+            "BIOL& 260 - Microbiology",
+            "ENGL& 101 - English Composition I",
+            "PSYC& 200 - Lifespan Psychology",
+            "MATH& 146 - Introduction to Statistics",
+            "CHEM& 121 - General Chemistry"
+        ],
+        "institution": "Bellingham Technical College"
+    },
+    {
+        "name": "Associate Degree in Nursing (DTA/MRP)",
+        "course_prerequisites": [
+            "ENGL& 101 - English Composition",
+            "BIOL& 160 - General Biology with lab",
+            "CHEM& 121 - Intro to Chemistry",
+            "BIOL& 241 - Anatomy & Physiology I",
+            "BIOL& 242 - Anatomy & Physiology II"
+        ],
+        "institution": "Big Bend Community College"
+    },
+    {
+        "name": "Associate Degree in Nursing (AAS-T)",
+        "course_prerequisites": [
+            "CHEM& 121 - Introduction to Chemistry",
+            "ENGL& 101 - English Composition I",
+            "PSYC& 200 - Lifespan Psychology",
+            "BIOL& 241 - Human Anatomy & Physiology I",
+            "BIOL& 242 - Human Anatomy & Physiology II",
+            "MATH& 146 - Introduction to Statistics"
+        ],
+        "institution": "Centralia College"
+    },
+    {
+        "name": "Associate Degree in Nursing (ADN)",
+        "course_prerequisites": [
+            "CHEM& 121 - Introduction to Chemistry",
+            "ENGL& 101 - English Composition I",
+            "PSYC& 200 - Lifespan Psychology",
+            "BIOL& 241 - Human Anatomy & Physiology I",
+            "BIOL& 242 - Human Anatomy & Physiology II",
+            "MATH& 146 - Introduction to Statistics"
+        ],
+        "institution": "Clark College"
+    },
+    {
+        "name": "Associate Degree in Nursing (ADN)",
+        "course_prerequisites": [
+            "BIOL& 241 - Human Anatomy & Physiology I",
+            "BIOL& 242 - Human Anatomy & Physiology II",
+            "BIOL& 260 - Microbiology",
+            "ENGL& 101 - English Composition I",
+            "PSYC& 200 - Lifespan Psychology",
+            "MATH& 146 - Introduction to Statistics",
+            "CHEM& 121 - General Chemistry"
+        ],
+        "institution": "Columbia Basin College"
+    },
+    {
+        "name": "Associate Degree in Nursing (ADN)",
+        "course_prerequisites": [
+            "BIOL& 241 - Human Anatomy & Physiology I",
+            "BIOL& 242 - Human Anatomy & Physiology II",
+            "BIOL& 260 - Microbiology",
+            "ENGL& 101 - English Composition I",
+            "PSYC& 200 - Lifespan Psychology",
+            "MATH& 146 - Introduction to Statistics",
+            "CHEM& 121 - General Chemistry"
+        ],
+        "institution": "Everett Community College"
+    },
+    {
+        "name": "Associate Degree in Nursing (ADN)",
+        "course_prerequisites": [
+            "CHEM& 121 - Introduction to Chemistry",
+            "ENGL& 101 - English Composition I",
+            "PSYC& 200 - Lifespan Psychology",
+            "BIOL& 241 - Human Anatomy & Physiology I",
+            "BIOL& 242 - Human Anatomy & Physiology II",
+            "MATH& 146 - Introduction to Statistics"
+        ],
+        "institution": "Grays Harbor College"
+    },
+    {
+        "name": "Associate Degree in Nursing (ADN)",
+        "course_prerequisites": [
+            "CHEM& 121 - Introduction to Chemistry",
+            "ENGL& 101 - English Composition I",
+            "PSYC& 200 - Lifespan Psychology",
+            "BIOL& 241 - Human Anatomy & Physiology I",
+            "BIOL& 242 - Human Anatomy & Physiology II",
+            "MATH& 146 - Introduction to Statistics"
+        ],
+        "institution": "Highline College"
+    },
+    {
+        "name": "Associate Degree in Nursing (AAS-T)",
+        "course_prerequisites": [
+            "BIOL& 241 - Human Anatomy & Physiology I",
+            "BIOL& 242 - Human Anatomy & Physiology II",
+            "BIOL& 260 - Microbiology",
+            "ENGL& 101 - English Composition I",
+            "PSYC& 200 - Lifespan Psychology",
+            "MATH& 146 - Introduction to Statistics",
+            "CHEM& 121 - General Chemistry"
+        ],
+        "institution": "Lake Washington Institute of Technology"
+    },
+    {
+        "name": "Associate in Nursing-Direct Transfer Agreement/Major Ready Pathway (AN-DTA/MRP)",
+        "course_prerequisites": [
+            "BIOL& 160 - General Biology with Lab",
+            "BIOL& 241 - Human Anatomy & Physiology I",
+            "BIOL& 242 - Human Anatomy & Physiology II",
+            "BIOL& 260 - Microbiology",
+            "CHEM& 121 - Introduction to Chemistry",
+            "ENGL& 101 - English Composition I",
+            "MATH& 146 - Introduction to Statistics",
+            "PSYC& 100 - General Psychology",
+            "PSYC& 200 - Lifespan Psychology"
+        ],
+        "institution": "Lower Columbia College"
+    },
+    {
+        "name": "Associate in Nursing (DTA/MRP)",
+        "course_prerequisites": [
+            "ENGL& 101 - English Composition I",
+            "PSYC& 100 - General Psychology",
+            "CHEM& 121 - General Chemistry",
+            "BIOL& 241 - Human Anatomy & Physiology I",
+            "BIOL& 242 - Human Anatomy & Physiology II",
+            "BIOL& 260 - Microbiology"
+        ],
+        "institution": "Olympic College"
+    },
+    {
+        "name": "Associate Degree in Nursing (ADN)",
+        "course_prerequisites": [
+            "BIOL& 241 - Human Anatomy & Physiology I",
+            "BIOL& 242 - Human Anatomy & Physiology II",
+            "BIOL& 260 - Microbiology",
+            "ENGL& 101 - English Composition I",
+            "PSYC& 200 - Lifespan Psychology",
+            "MATH& 146 - Introduction to Statistics",
+            "CHEM& 121 - General Chemistry"
+        ],
+        "institution": "Lake Washington Institute of Technology"
+    },
+    {
+        "name": "Associate Degree in Nursing (ADN)",
+        "course_prerequisites": [
+            "BIOL& 241 - Human Anatomy & Physiology I",
+            "BIOL& 242 - Human Anatomy & Physiology II",
+            "BIOL& 260 - Microbiology",
+            "ENGL& 101 - English Composition I",
+            "PSYC& 200 - Lifespan Psychology",
+            "MATH& 146 - Introduction to Statistics",
+            "CHEM& 121 - General Chemistry"
+        ],
+        "institution": "Peninsula College"
+    },
+    {
+        "name": "Associate Degree in Nursing (ADN)",
+        "course_prerequisites": [
+            "ENGL& 101 - English Composition I",
+            "PSYC& 100 - General Psychology",
+            "CHEM& 121 - General Chemistry",
+            "BIOL& 241 - Human Anatomy & Physiology I",
+            "BIOL& 242 - Human Anatomy & Physiology II",
+            "BIOL& 260 - Microbiology"
+        ],
+        "institution": "Pierce College"
+    },
+    {
+        "name": "Associate Degree in Nursing (ADN)",
+        "course_prerequisites": [
+            "BIOL& 241 - Human Anatomy & Physiology I",
+            "BIOL& 242 - Human Anatomy & Physiology II",
+            "BIOL& 260 - Microbiology",
+            "ENGL& 101 - English Composition I",
+            "PSYC& 200 - Lifespan Psychology",
+            "MATH& 146 - Introduction to Statistics",
+            "CHEM& 121 - General Chemistry"
+        ],
+        "institution": "Seattle Central College"
+    },
+    {
+        "name": "Associate in Nursing (DTA/MRP)",
+        "course_prerequisites": [
+            "BIOL& 160 - General Biology with Lab",
+            "BIOL& 241 - Human Anatomy & Physiology I",
+            "BIOL& 242 - Human Anatomy & Physiology II",
+            "BIOL& 260 - Microbiology",
+            "CHEM& 121 - Introduction to Chemistry",
+            "ENGL& 101 - English Composition I",
+            "MATH& 146 - Introduction to Statistics",
+            "PSYC& 100 - General Psychology",
+            "PSYC& 200 - Lifespan Psychology"
+        ],
+        "institution": "Skagit Valley College"
+    },
+    {
+        "name": "Associate in Nursing DTA/MRP",
+        "course_prerequisites": [
+            "BIOL& 241 - Human Anatomy & Physiology I",
+            "BIOL& 242 - Human Anatomy & Physiology II",
+            "BIOL& 260 - Microbiology",
+            "ENGL& 101 - English Composition I",
+            "PSYC& 200 - Lifespan Psychology",
+            "MATH& 146 - Introduction to Statistics",
+            "CHEM& 121 - General Chemistry"
+        ],
+        "institution": "South Puget Sound Community College"
+    },
+    {
+        "name": "Associate in Nursing DTA/MRP",
+        "course_prerequisites": [
+            "BIOL& 160 - General Biology with Lab",
+            "BIOL& 241 - Human Anatomy & Physiology I",
+            "BIOL& 242 - Human Anatomy & Physiology II",
+            "BIOL& 260 - Microbiology",
+            "CHEM& 121 - Introduction to Chemistry",
+            "ENGL& 101 - English Composition I",
+            "MATH& 146 - Introduction to Statistics",
+            "PSYC& 100 - General Psychology",
+            "PSYC& 200 - Lifespan Psychology"
+        ],
+        "institution": "Community Colleges of Spokane"
+    },
+    {
+        "name": "Associate Degree in Nursing (ADN)",
+        "course_prerequisites": [
+            "BIOL& 160 - General Biology with Lab",
+            "BIOL& 241 - Human Anatomy & Physiology I",
+            "BIOL& 242 - Human Anatomy & Physiology II",
+            "BIOL& 260 - Microbiology",
+            "CHEM& 121 - Introduction to Chemistry",
+            "ENGL& 101 - English Composition I",
+            "MATH& 146 - Introduction to Statistics",
+            "PSYC& 100 - General Psychology",
+            "PSYC& 200 - Lifespan Psychology"
+        ],
+        "institution": "Wenatchee Valley College"
+    },
+    {
+        "name": "Nursing Programs",
+        "course_prerequisites": [
+            "Anatomy & Physiology",
+            "Microbiology",
+            "Chemistry",
+            "Nutrition",
+            "Statistics",
+            "Developmental Psychology",
+            "Introduction to Nursing"
+        ],
+        "institution": "Gonzaga University"
+    },
+    {
+        "name": "Bachelor of Science in Nursing (BSN)",
+        "course_prerequisites": [
+            "Anatomy & Physiology",
+            "Microbiology",
+            "Chemistry",
+            "Nutrition",
+            "Statistics",
+            "Developmental Psychology",
+            "Introduction to Nursing"
+        ],
+        "institution": "Heritage University"
+    },
+    {
+        "name": "Bachelor of Science in Nursing (BSN)",
+        "course_prerequisites": [
+            "General Psychology",
+            "Developmental Psychology",
+            "General Chemistry",
+            "Microbiology",
+            "Human Anatomy and Physiology I and II",
+            "Nutrition",
+            "Statistics"
+        ],
+        "institution": "Northwest University"
+    },
+    {
+        "name": "Bachelor of Science in Nursing (BSN)",
+        "course_prerequisites": [
+            "General Psychology",
+            "Developmental Psychology",
+            "General Chemistry",
+            "Microbiology",
+            "Human Anatomy and Physiology I and II",
+            "Nutrition",
+            "Statistics"
+        ],
+        "institution": "Pacific Lutheran University"
+    },
+    {
+        "name": "Bachelor of Science in Nursing (BSN)",
+        "course_prerequisites": [
+            "General Psychology",
+            "Developmental Psychology",
+            "General Chemistry",
+            "Microbiology",
+            "Human Anatomy and Physiology I and II",
+            "Nutrition",
+            "Statistics"
+        ],
+        "institution": "Saint Martin's University"
+    },
+    {
+        "name": "Bachelor of Science in Nursing (BSN)",
+        "course_prerequisites": [
+            "General Psychology",
+            "Developmental Psychology",
+            "General Chemistry",
+            "Microbiology",
+            "Human Anatomy and Physiology I and II",
+            "Nutrition",
+            "Statistics"
+        ],
+        "institution": "Seattle Pacific University"
+    },
+    {
+        "name": "Bachelor of Science in Nursing (BSN)",
+        "course_prerequisites": [
+            "General Psychology",
+            "Developmental Psychology",
+            "General Chemistry",
+            "Microbiology",
+            "Human Anatomy and Physiology I and II",
+            "Nutrition",
+            "Statistics"
+        ],
+        "institution": "Seattle University"
+    },
+    {
+        "name": "Bachelor of Science in Nursing (BSN)",
+        "course_prerequisites": [
+            "General Psychology",
+            "Developmental Psychology",
+            "General Chemistry",
+            "Microbiology",
+            "Human Anatomy and Physiology I and II",
+            "Nutrition",
+            "Statistics"
+        ],
+        "institution": "University of Washington"
+    },
+    {
+        "name": "Bachelor of Science in Nursing (BSN)",
+        "course_prerequisites": [
+            "General Psychology",
+            "Developmental Psychology",
+            "General Chemistry",
+            "Microbiology",
+            "Human Anatomy and Physiology I and II",
+            "Nutrition",
+            "Statistics"
+        ],
+        "institution": "Walla Walla University"
+    },
+    {
+        "name": "Bachelor of Science in Nursing (BSN)",
+        "course_prerequisites": [
+            "General Psychology",
+            "Developmental Psychology",
+            "General Chemistry",
+            "Microbiology",
+            "Human Anatomy and Physiology I and II",
+            "Nutrition",
+            "Statistics"
+        ],
+        "institution": "Washington State University"
+    },
+    {
+        "name": "Bachelor of Science in Nursing (BSN)",
+        "course_prerequisites": [
+            "General Psychology",
+            "Developmental Psychology",
+            "General Chemistry",
+            "Microbiology",
+            "Human Anatomy and Physiology I and II",
+            "Nutrition",
+            "Statistics"
+        ],
+        "institution": "Washington State University Tri-Cities"
+    },
+    {
+        "name": "Bachelor of Science in Nursing (RN to BSN)",
+        "course_prerequisites": [
+            "General Psychology",
+            "Developmental Psychology",
+            "General Chemistry",
+            "Microbiology",
+            "Human Anatomy and Physiology I and II",
+            "Nutrition",
+            "Statistics"
+        ],
+        "institution": "Bellevue College"
+    },
+    {
+        "name": "Bachelor of Science in Nursing (RN to BSN)",
+        "course_prerequisites": [
+            "MATH& 146 - Intro to Statistics",
+            "CHEM& 121 - Intro to Chemistry with Lab",
+            "ENGL& 101 - English Composition",
+            "NUTR& 101 - Nutrition (or equivalent, may be taken concurrently)"
+        ],
+        "institution": "Columbia Basin College"
+    },
+    {
+        "name": "Bachelor of Science in Nursing (BSN)",
+        "course_prerequisites": [
+            "General Psychology",
+            "Developmental Psychology",
+            "General Chemistry",
+            "Microbiology",
+            "Human Anatomy and Physiology I and II",
+            "Nutrition",
+            "Statistics"
+        ],
+        "institution": "Lower Columbia College"
+    },
+    {
+        "name": "Master of Science in Nursing (MSN)",
+        "course_prerequisites": [
+            "Statistics",
+            "Nursing Research",
+            "Health Assessment"
+        ],
+        "institution": "Pacific Lutheran University"
+    },
+    {
+        "name": "Doctor of Nursing Practice (DNP)",
+        "course_prerequisites": [
+            "Statistics",
+            "Nursing Research",
+            "Health Assessment"
+        ],
+        "institution": "Pacific Lutheran University"
+    },
+    {
+        "name": "Post Graduate Nurse Practitioner Certificate Program",
+        "course_prerequisites": [
+            "MSN degree",
+            "Current ARNP licensure"
+        ],
+        "institution": "Pacific Lutheran University"
+    },
+    {
+        "name": "Bachelor of Science in Nursing (RN to BSN)",
+        "course_prerequisites": [
+            "MATH& 146 - Intro to Statistics",
+            "ENGL& 101 - English Composition",
+            "Human Anatomy and Physiology I and II",
+            "Microbiology",
+            "Nutrition"
+        ],
+        "institution": "University of Washington Bothell"
+    },
+    {
+        "name": "Bachelor of Science in Nursing (RN to BSN)",
+        "course_prerequisites": [
+            "MATH& 146 - Intro to Statistics",
+            "ENGL& 101 - English Composition",
+            "Human Anatomy and Physiology I and II",
+            "Microbiology",
+            "Nutrition"
+        ],
+        "institution": "University of Washington Tacoma"
+    },
+    {
+        "name": "Bachelor of Science in Nursing (RN to BSN)",
+        "course_prerequisites": [
+            "MATH& 146 - Intro to Statistics",
+            "ENGL& 101 - English Composition",
+            "Human Anatomy and Physiology I and II",
+            "Microbiology",
+            "Nutrition"
+        ],
+        "institution": "Wenatchee Valley College"
+    },
+    {
+        "name": "Bachelor of Science in Nursing (RN to BSN)",
+        "course_prerequisites": [
+            "MATH& 146 - Intro to Statistics",
+            "ENGL& 101 - English Composition",
+            "Human Anatomy and Physiology I and II",
+            "Microbiology",
+            "Nutrition"
+        ],
+        "institution": "Western Governors University"
+    },
+    {
+        "name": "Bachelor of Science in Nursing (RN to BSN)",
+        "course_prerequisites": [
+            "MATH& 146 - Intro to Statistics",
+            "ENGL& 101 - English Composition",
+            "Human Anatomy and Physiology I and II",
+            "Microbiology",
+            "Nutrition"
+        ],
+        "institution": "Western Washington University"
+    },
+    {
+        "name": "Nursing Programs",
+        "course_prerequisites": [
+            "Human Anatomy and Physiology I and II",
+            "Introduction to Chemistry",
+            "General Psychology",
+            "Developmental Psychology",
+            "Microbiology",
+            "Nutrition",
+            "Statistics"
+        ],
+        "institution": "North Seattle College"
+    },
+    {
+        "name": "Nursing Programs",
+        "course_prerequisites": [
+            "Human Anatomy and Physiology I and II",
+            "Introduction to Chemistry",
+            "General Psychology",
+            "Developmental Psychology",
+            "Microbiology",
+            "Nutrition",
+            "Statistics"
+        ],
+        "institution": "South Seattle College"
+    }
+]

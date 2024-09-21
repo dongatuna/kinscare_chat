@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sample Website</title>
+    <style>
+        /* Existing CSS */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        .header {
+            background: #50b3a2;
+            color: white;
+            padding: 10px;
+            text-align: center;
+        }
+        .content {
+            padding: 15px;
+            background: white;
+        }
+
+        /* Chat popup CSS */
+        .chat-popup {
+            position: fixed;
+            right: 2px;
+            bottom: 2px;
+            width: 350px; /* Adjust width as needed */
+            height: 330px; /* Adjust height as needed */
+            border: 1px solid #ddd;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+            z-index: 1000;
+            overflow: auto; /* Allows scrolling within the chat popup if needed */
+            background-color: transparent; /* Makes the background transparent */
+            opacity: 0.8; /* any value from 0 (transparent) to 1 (opaque) */
+        }
+        .chat-popup iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+            background-color: transparent; /* Ensures iframe takes the transparency from its parent */
+            opacity: 1; /* Adjust if you want the content to be fully opaque */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Sample Hosting Site</h1>
+        </div>
+        <div class="content">
+            <h2>Sample Data</h2>
+            <p>Here is some sample data to showcase the functionality of our bot.</p>
+            <!-- Add your sample data here -->
+        </div>
+    </div>
+
+    <script type="text/javascript">
+        const JobInfoFormExtension = {
+            name: 'JobInfoFormExtension', // Extension name
+            type: 'response', // Extension type indicating it handles responses
+            match: ({ trace }) => trace.payload.name === 'Job_Info_Form', // Condition to trigger this extension
+            render: ({ trace, element }) => {
+                // Create a form element dynamically
+                const formContainer = document.createElement('form');
+
+                // Set the inner HTML of the form
+                formContainer.innerHTML = `
+                    <label for="name">Name:</label>
+                    <input type="text" class="name" name="name"><br><br>
+                    <label for="supervisor">Supervisor:</label>
+                    <input type="text" class="supervisor" name="supervisor"><br><br>
+                    <label for="position">Position:</label>
+                    <input type="text" class="position" name="position"><br><br>
+                    <label for="email">Email:</label>
+                    <input type="email" class="email" name="email"><br><br>
+                    <label for="phone">Phone Number:</label>
+                    <input type="tel" class="phone" name="phone"><br><br>
+                    <input type="submit" class="submit" value="Submit">
+                `;
+
+                // Attach an event listener to handle form submission
+                formContainer.addEventListener('submit', function(event) {
+                    event.preventDefault(); // Prevent default form submission
+
+                    // Extract values from the form fields
+                    const name = formContainer.querySelector('.name').value;
+                    const supervisor = formContainer.querySelector('.supervisor').value;
+                    const position = formContainer.querySelector('.position').value;
+                    const email = formContainer.querySelector('.email').value;
+                    const phone = formContainer.querySelector('.phone').value;
+
+                    // Optionally remove the submit button after submission
+                    formContainer.querySelector('.submit').remove();
+
+                    // Programmatically submit the form data (adjust the payload as necessary)
+                    window.voiceflow.chat.interact({
+                        type: 'complete',
+                        payload: { name, supervisor, position, email, phone }
+                    });
+                    window.voiceflow.job_form={ name, supervisor, position, email, phone };
+                });
+
+                // Append the form to the specified DOM element
+                element.appendChild(formContainer);
+            },
+        };
+    </script>
+
+    <script type="text/javascript">
+        (function(d, t) {
+            var v = d.createElement(t), s = d.getElementsByTagName(t)[0];
+            v.onload = function() {
+              window.voiceflow.chat.load({
+                verify: { projectID: '669460db75a15d830a2a8b39' },
+                url: 'https://general-runtime.voiceflow.com',
+                versionID: 'production',
+                userID: "null", // Replace with dynamic value as needed
+                assistant: {
+                    extensions: [JobInfoFormExtension]
+                }
+              });
+            }
+            v.src = "https://cdn.voiceflow.com/widget/bundle.mjs"; v.type = "text/javascript"; s.parentNode.insertBefore(v, s);
+        })(document, 'script');
+    </script>
+</body>
+</html>

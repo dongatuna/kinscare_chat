@@ -1,0 +1,21 @@
+[MASTER]
+ignore-patterns=.git,__pycache__,build,dist,\.sql,\.cfg,\.html,\.txt,Dockerfile,\.md
+
+[MESSAGES CONTROL]
+disable=
+    C0114,  # Missing module docstring
+    C0115,  # Missing class docstring
+    C0116,  # Missing function or method docstring
+    R0903,  # Too few public methods (1/2)
+    R0201,  # Method could be a function
+    W0511,  # TODO/FIXME comments
+    C0103,  # Variable name doesn't conform to snake_case naming style
+    W0718,  # Catching too general exception: Exception
+    W0719   # Raising too general exception: Exception
+
+[FORMAT]
+max-line-length=88
+
+[DESIGN]
+max-attributes=10
+max-args=10
