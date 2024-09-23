@@ -1,5 +1,10 @@
 # Kinscare Chat
 
+## Deployment
+
+- Google Cloud Run: https://console.cloud.google.com/run/detail/us-central1/dev-career-path-bot?project=kinscare
+- Cloud SQL - PostgreSQL: https://console.cloud.google.com/sql/instances?project=kinscare
+
 ## MongoDB
 
 
